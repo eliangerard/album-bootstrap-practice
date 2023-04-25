@@ -1,0 +1,16 @@
+.card-img-top {
+    height: 300px;
+    object-fit: cover;
+}
+.btn-primary {
+    background-color: #005136;
+    border-color: #005136;
+}
+.btn-secondary {
+    background-color: #fbfce8;
+    color: #005136;
+    border-color: #fbfce8;
+}
+.bg-dark {
+    background-color: #005136!important;
+}
